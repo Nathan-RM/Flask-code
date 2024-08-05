@@ -1,1 +1,1 @@
-# CLASSE-Nathan-Martuza-project-2024
+# Flask app code for the 2024 CLASSE REU Integration of MLHUB into CHEXS
